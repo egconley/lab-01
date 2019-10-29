@@ -1,5 +1,7 @@
 /* Questions:
 Is there a way to do * {text-align: center;} without messing up e,f,g, and h? */
+
+/* comment for pull request */
 * {
   box-sizing: border-box;
 }
