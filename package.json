@@ -1,0 +1,24 @@
+{
+  "name": "lab-01",
+  "version": "1.0.0",
+  "description": "responsive wire-frame",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egconley/lab-01.git"
+  },
+  "author": "Ellen Conley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egconley/lab-01/issues"
+  },
+  "homepage": "https://github.com/egconley/lab-01#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
